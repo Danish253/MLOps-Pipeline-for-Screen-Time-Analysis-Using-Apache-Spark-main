@@ -1,0 +1,2 @@
+# MLOps-Pipeline-for-Screen-Time-Analysis-Using-Apache-Spark-main
+MLOps-Pipeline-for-Screen-Time-Analysis-Using-Apache-Spark This project demonstrates a complete MLOps-style pipeline built with Apache Spark for analyzing mobile app screen time. It covers data preprocessing, feature engineering, model training, and model persistence, making it a scalable and production-ready solution for usage prediction.
